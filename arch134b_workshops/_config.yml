@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Building Energy Modeling Workshops (Rhino & Ladybug Edition)
+title: Climate Studio (Rhino & Ladybug Edition)
 author: Gautaman Asirwatham, Amber Sun (Extended from original work by <a href="https://chenkianwee.github.io/arch134b_workshops/docs/intro.html">Kian Wee Chen</a>)
 copyright: '2025, Gaudi, Amber, advised by Prof. Melody Baglione and Kian Wee Chen'
 #logo: logo.png
@@ -27,7 +27,7 @@ sphinx:
     
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/CooperUnion/buildingenergymodeling_workshops  # Online location of your book
+  url: https://github.com/amber298/climatestudio  # Online location of your book
   path_to_book: # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
@@ -38,4 +38,4 @@ html:
   use_repository_button: true
   home_page_in_navbar: true
   use_multitoc_numbering: false
-  html_baseurl: "https://CooperUnion.github.io/buildingenergymodeling_workshops/"
+  html_baseurl: "https://amber289.github.io/climatestudio/"
