@@ -1,5 +1,5 @@
 # Shoebox Model
-A shoebox model is a simplified, usually rectangular building used for pre-design to early design performance evaluation. With a simplified model, you can adjust different architectural parameters, e.g. windows size, constructions orientation, to understand how the performance changes with these adjustments. 
+A shoebox model is a simplified, usually rectangular building used for pre-design to early design performance evaluation. With a simplified model, you can adjust different architectural parameters, e.g. windows size, constructions orientation, to understand how the performance changes with thes.
 
 In this tutorial, we will generate climate and construction visualizations for a "shoebox" single-family home using Ladybug Tools. 
 
