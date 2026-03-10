@@ -24,6 +24,7 @@ sphinx:
   config:
     # bibtex_reference_style: author_year
     myst_heading_anchors: 3
+    html_baseurl: "https://CooperUnion.github.io/buildingenergymodeling_workshops/"
     
 # Information about where the book exists on the web
 repository:
@@ -38,4 +39,4 @@ html:
   use_repository_button: true
   home_page_in_navbar: true
   use_multitoc_numbering: false
-  html_baseurl: "https://CooperUnion.github.io/buildingenergymodeling_workshops/"
+ 
