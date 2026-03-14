@@ -1,4 +1,4 @@
-# Building Energy Modeling Workshops (Rhino & Ladybug Tools Edition 2025)
+# Climate Studio (Rhino and Solemma Edition 2026)
 
 This tutorial introduces _Grasshopper_, a plug-in for Rhino that provides a visual programming environment useful for creating simple processes or complex algorithmic systems.
 

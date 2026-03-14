@@ -9,7 +9,7 @@ copyright: '2025, Gaudi, Amber, advised by Prof. Melody Baglione and Kian Wee Ch
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: force
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -25,6 +25,7 @@ sphinx:
     # bibtex_reference_style: author_year
     myst_heading_anchors: 3
     
+    
 # Information about where the book exists on the web
 repository:
   url: https://github.com/amber298/climatestudio  # Online location of your book
@@ -38,4 +39,4 @@ html:
   use_repository_button: true
   home_page_in_navbar: true
   use_multitoc_numbering: false
-  html_baseurl: "https://amber289.github.io/climatestudio/"
+  html_baseurl: "https://CooperUnion.github.io/buildingenergymodeling_workshops/"
