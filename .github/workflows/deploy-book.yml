@@ -31,6 +31,7 @@ jobs:
           pip install -r arch134b_workshops/requirements.txt
       - name: Build the book
         run: |
+          jupyter-book toc migrate arch134b_workshops/_toc.yml
           jupyter-book build arch134b_workshops
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
