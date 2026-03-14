@@ -27,6 +27,7 @@ jobs:
           python-version: 3.x
       - name: Install dependencies
         run: |
+          pip install "jupyter-book<2.0.0"
           pip install -r arch134b_workshops/requirements.txt
       - name: Build the book
         run: |
